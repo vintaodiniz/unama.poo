@@ -1,1 +1,2 @@
 # unama.poo
+class
